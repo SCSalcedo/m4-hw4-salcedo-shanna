@@ -1,0 +1,34 @@
+main {
+    text-align: center;
+}
+body {
+    background-color: skyblue;
+    color: darkblue;
+    max-width: 900px;
+    margin: auto;
+}
+h1{
+    color: indigo;
+    font-size: 45px;
+}
+section > article > h2 {
+    color: greenyellow;
+}
+header {
+    text-align: left;
+    font-size: 20px;
+}
+header > nav {
+    text-align: left;
+    font-size: 15px;
+}
+a{
+    color: aqua;
+}
+aside.awards {
+text-align: left;
+
+}
+aside > h2 {
+    color: rgb(228, 63, 228);
+}

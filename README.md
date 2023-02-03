@@ -1,1 +1,3 @@
 # m4-hw4-salcedo-shanna
+## Any problems?
+I had a couple problems but overall figured most out. Just curious if CSS needs to go in any specific order in the styles.css file? It probably is better organized if I start from the top of the index.html. I had some problems with my bullet points the unordered list located in the aside. I wanted to text align to the right which took everything located in the aside to the right side but the bullets stayed to the left. 
